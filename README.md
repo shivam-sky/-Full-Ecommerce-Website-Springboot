@@ -40,6 +40,5 @@ Screenshots for Refernce
 ![sorting2](https://user-images.githubusercontent.com/108517129/192426980-901035f9-1008-48b1-8460-7f43648c1fe8.PNG)
 ![shorting](https://user-images.githubusercontent.com/108517129/192426992-649e4aa1-ac8f-4b16-8367-13df02575d6d.PNG)
 
-![profile-orders](https://user-images.githubusercontent.com/10![admin-add product](https://user-images.githubusercontent.com/108517129/192427028-7a013291-4d6c-4883-a91e-125afad8ec44.PNG)
-8517129/192427010-f8780173-1f92-446d-a754-f9d68a222a7a.PNG)
+
 ![adminArticle Ad](https://user-images.githubusercontent.com/108517129/192427050-c08c2920-8a1e-42fe-b2df-0a03cd489293.PNG)
