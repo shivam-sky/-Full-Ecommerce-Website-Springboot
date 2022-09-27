@@ -26,12 +26,20 @@ All the images were originally links to cloud resources but I decided later to s
 
 
 Screenshots for Refernce
+![home page](https://user-images.githubusercontent.com/108517129/192426851-439b7d6f-06d4-4088-a87e-0ba2f8d499b9.PNG)
 
-![home page](https://user-images.githubusercontent.com/108517129/192426503-d7064a45-214e-4366-9106-23b20c8e6ddf.PNG)
-![featured products](https://user-images.githubusercontent.com/108517129/192426540-40e91823-79de-4e20-ba9f-54495ddead62.PNG)
+![featured products](https://user-images.githubusercontent.com/108517129/192426870-dbb9f215-6024-418d-8788-851db6ca542b.PNG)
 
-![login Register](https://user![my-profile-section](https://user-images.githubusercontent.com/108517129/192426564-8751beb7-5117-436e-8de6-a3ac7ff0d2ce.PNG)
+![login Register](https://user-images.githubusercontent.com/108517129/192426915-3428729b-4a1b-4037-b694-317c2b9151ca.PNG)
 
 
-![storec![sorting2](https://user-images.githubusercontent.com/108517129/192426577-fd80441e-abb7-4e4e-9a42-f13af463156a.PNG)
-![store](https://user-images.githubusercontent.com/108517129/192426572-bee35f0d-a28d-4627-8681-f1548736daf8.PNG)
+![my-profile-section](https://user-images.githubusercontent.com/108517129/192426923-6136d478-50d6-40b1-957e-cbbf842b96d4.PNG)
+
+![storecategoriesBrandsSize](https://user-images.githubusercontent.com/108517129/192426945-3ee034f2-2008-4523-ab09-375046d7dda6.PNG)
+![store](https://user-images.githubusercontent.com/108517129/192426965-cb2fd7d8-deef-444d-a837-66f04133ef65.PNG)
+![sorting2](https://user-images.githubusercontent.com/108517129/192426980-901035f9-1008-48b1-8460-7f43648c1fe8.PNG)
+![shorting](https://user-images.githubusercontent.com/108517129/192426992-649e4aa1-ac8f-4b16-8367-13df02575d6d.PNG)
+
+![profile-orders](https://user-images.githubusercontent.com/10![admin-add product](https://user-images.githubusercontent.com/108517129/192427028-7a013291-4d6c-4883-a91e-125afad8ec44.PNG)
+8517129/192427010-f8780173-1f92-446d-a754-f9d68a222a7a.PNG)
+![adminArticle Ad](https://user-images.githubusercontent.com/108517129/192427050-c08c2920-8a1e-42fe-b2df-0a03cd489293.PNG)
